@@ -1,2 +1,3 @@
-# Simbolo_chatbot_api
-this is the simbolo chatbot api
+### Simbolo Chatbot API
+
+This is the simbolo chatbot api repository. I havent deployed it on cloud.
